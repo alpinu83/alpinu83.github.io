@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alpinu83.github.io/kr-calc-hub/sitemap.xml
